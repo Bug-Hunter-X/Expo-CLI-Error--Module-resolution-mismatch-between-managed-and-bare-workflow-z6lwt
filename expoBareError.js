@@ -1,0 +1,1 @@
+This error typically occurs when you try to use a feature or module from Expo's managed workflow within a bare workflow project, or vice versa.  The Expo client and the underlying React Native project have different assumptions about how modules are loaded and managed.  This mismatch leads to unexpected behavior and errors during the build process.
